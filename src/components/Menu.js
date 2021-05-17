@@ -12,9 +12,6 @@ const Menu = (props) => {
         <li onClick={() => props.setMenuOpen(false)}>
           <a href="#works">Works</a>
         </li>
-        <li onClick={() => props.setMenuOpen(false)}>
-          <a href="#contact">Contact</a>
-        </li>
       </ul>
     </div>
   );

@@ -1,4 +1,3 @@
-import Contact from "./components/Contact";
 import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 import TopBar from "./components/Topbar";
@@ -18,7 +17,6 @@ function App() {
         <Intro></Intro>
         <Portfolio></Portfolio>
         <Works></Works>
-        <Contact></Contact>
       </div>
     </div>
   );

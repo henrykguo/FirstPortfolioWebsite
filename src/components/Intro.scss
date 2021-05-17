@@ -6,16 +6,8 @@
     flex: 0.5;
     overflow: hidden;
 
-    .imgContainer {
-      width: 700px;
-      height: 700px;
-      scrollbar-width: none;
-      &::-webkit-scrollbar {
-        display: none;
-      }
-      img {
-        width: 100%;
-      }
+    img {
+      width: 100%;
     }
   }
 

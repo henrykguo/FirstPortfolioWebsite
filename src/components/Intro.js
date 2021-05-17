@@ -4,9 +4,7 @@ const Intro = () => {
   return (
     <div className="intro" id="intro">
       <div className="left">
-        <div className="imgContainer">
           <img src="assets/IMG_3130.jpg" alt=""></img>
-        </div>
       </div>
       <div className="right">
         <div className="wrapper">
