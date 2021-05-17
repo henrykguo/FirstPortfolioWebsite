@@ -3,7 +3,7 @@ import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 import TopBar from "./components/Topbar";
 import Works from "./components/Works";
-import "./App.scss";
+import "./app.scss";
 import { useState } from "react";
 import Menu from "./components/Menu";
 
